@@ -2,7 +2,7 @@
 <img src="https://flagcdn.com/w320/is.png" alt="Iceland_FLAG"/>
 A list of OSINT resources and tools that may be useful to you when conducting investigations related to Iceland. Most of the resources and tools has versions in Icelandic, some also in English. Many government services have moved to the common portal Ísland.is, and lookups such as the vehicle owner search require Icelandic electronic ID (rafræn skilríki) through "Mínar síður". Persons and companies are identified by the kennitala (national ID number), which is the best search key in most registers. Iceland is a small jurisdiction, so several categories rely on international services. Enter names with Icelandic letters (á, ð, é, í, ó, ú, ý, þ, æ, ö).
 
-**Last Updated:** 2026-10-13
+![Last updated](https://img.shields.io/github/last-commit/Provereno-Media/OSINT-Tools-Iceland?label=Last%20updated)
 
 ## Contributions
 Feel free to join this project — [OSINT For Countries V2.0](https://github.com/Provereno-Media/OSINT-for-countries-V2.0)
